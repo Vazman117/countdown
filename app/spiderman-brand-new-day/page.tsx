@@ -36,7 +36,7 @@ export default async function Page() {
       eventAttendanceMode: "https://schema.org/OnlineEventAttendanceMode",
       location: {
         "@type": "VirtualLocation",
-        url: "https://tudominio.com/spiderman-brand-new-day"
+        url: "https://countdown-two-topaz.vercel.app/spiderman-brand-new-day"
       },
       description:
         "Cuenta regresiva para el estreno de Spider-Man: Brand New Day. Descubre cuántos días faltan para su estreno."
