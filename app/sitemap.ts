@@ -5,6 +5,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     {
       url: "https://countdown-two-topaz.vercel.app/spiderman-brand-new-day",
       lastModified: new Date(),
+      changeFrequency: "daily",
+      priority: 1,
     },
   ];
 }
